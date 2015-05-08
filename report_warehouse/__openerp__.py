@@ -28,7 +28,7 @@
     """,
     'author': 'INIT',
     'website': 'https://www.init.vn',
-    'depends': ['stock'],
+    'depends': ['stock','report_aeroo'],
     'data': [
         'report/report.xml',
         'wizard/print_report_view.xml',
